@@ -24,5 +24,5 @@ while isGuessRight != True:
     else:
         # if the wrong guess, tell the user it was the wrong guess and
         # continue the loop.
-        print("You guessed {}. Sorry, that isn't it. Try again.".format(guess))
+        print("You guessed {}. Sorry, that is not the correct number. Try again.".format(guess))
         
